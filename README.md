@@ -1,15 +1,12 @@
-# Fanclub: ICC Men's T20 World Cup 2024
+# India Budget 2024-25 Informative Website
 
-Welcome to the Fanclub website for the ICC Men's T20 World Cup 2024! This project is a static front-end website created using HTML and CSS. 
-It provides information and excitement about the  T20 World Cup.
+This repository contains the source code for a static website created to provide detailed information about the India Budget 2024-25. The website is designed to be a comprehensive resource for anyone looking to understand the various aspects of the budget, including key allocations, policy changes, and economic implications.
 
 ## Features
-- Home page with a login and Signin section
-- Team profiles with player details and stats
-- Schedule of matches with date, time, and venue
-- News and updates section for the latest information
-- Responsive design for optimal viewing on various devices
-
+- Comprehensive Information: All major sections of the budget are covered with detailed explanations.
+- User-Friendly Design: The website is designed with a clean and intuitive interface for easy navigation
+- Useful Links: Includes links to official documents, related articles, and other resources for further reading.
+  
 ## Technologies Used
 - HTML5
 - CSS3
