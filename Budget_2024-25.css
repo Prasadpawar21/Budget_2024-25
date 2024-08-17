@@ -1,0 +1,1437 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-bg-white {
+    height: 7400px;
+    width: 1517px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow {
+    height: 7400px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.main-image-bag {
+    background-image: url("https://cdn1.img.sputniknews.in/img/07e7/02/01/714762_0:418:3033:1631_1920x0_80_0_0_7842ddf761461b1157e7bf2bd56f4979.jpg");
+    height: 500px;
+    width: 1000px;
+    background-size: cover;
+}
+
+.main-black-bg {
+    height: 350px;
+    width: 400px;
+    background-color: black;
+}
+
+.blur-bg-black {
+    background-color: #00000090;
+    height: 500px;
+    width: 1000px;
+    padding-left: 80px;
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.main-heading1 {
+    font-family: "Monoton";
+    font-size: 35px;
+    color: white;
+    margin-left: 60px;
+
+}
+
+.main-heading2 {
+    font-family: "Monoton";
+    font-size: 35px;
+    color: white;
+    background-color: #C80036;
+    width: 100px;
+}
+
+.main-heading3 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    background-color: #0C1844;
+    width: 300px;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-left: 40px;
+}
+
+.main-heading4 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    width: 430px;
+}
+
+.align-button {
+    text-align: center;
+    width: 370px;
+    margin-top: 20px;
+}
+
+.main-heading5 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: white;
+    text-decoration: underline;
+    margin-right: 10px;
+}
+
+.card-blue-line {
+    height: 50px;
+    width: 1000px;
+    background-color: #C80036;
+}
+
+.button-card-red {
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    margin: 10px;
+}
+
+.main-heading6 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: black;
+    margin: 50px;
+}
+
+.main-heading7 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+    width: 590px;
+}
+
+.main-heading-blue {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    background-color: #0C1844;
+    width: 960px;
+    text-align: center;
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.white-content-table {
+    height: 700px;
+    width: 310px;
+    background-color: white;
+    border-radius: 0px;
+    margin: 20px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.edit-unorder-list {
+    list-style-type: circle;
+}
+
+.main-heading-red {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    height: 30px;
+    background-color: #C80036;
+    width: 310px;
+    text-align: center;
+}
+
+.border-question {
+    margin: 10px;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.border-question1 {
+    margin: 10px;
+    padding: 5px;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.edit-carousel {
+    height: 300px;
+    width: 400px;
+}
+
+.edit-carousel-margin {
+    margin: 30px;
+}
+
+.white-box-priority2 {
+    height: 280px;
+    width: 210px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.white-box-priority {
+    height: 280px;
+    width: 210px;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px;
+}
+
+.priority-img {
+    height: 100px;
+    width: 190px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: 10px;
+}
+
+.priority-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    background-color: #C80036;
+    padding: 4px;
+}
+
+.priority-para {
+    font-family: "Roboto";
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: #0C1844;
+}
+
+.priority-arrow {
+    text-align: center;
+}
+
+.prority-button {
+    margin-top: 20px;
+}
+
+.baby-pink-card {
+    height: 260px;
+    width: 460px;
+    background-color: white;
+    margin: 20px;
+}
+
+.main-heading8 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    margin: 10px;
+    background-color: #C80036;
+    width: 270px;
+    text-align: center;
+    padding: 5px;
+}
+
+.main-heading9 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    width: 350px;
+}
+
+.img-indirect-tax {
+    height: 240px;
+    width: 160px;
+    background-size: cover;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+
+.detailed-tax-button {
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+
+.main-heading10 {
+    font-family: "Roboto";
+    font-size: 15px;
+    color: black;
+    width: 230px;
+}
+
+.img-direct-tax {
+    height: 240px;
+    width: 160px;
+    background-size: cover;
+    margin-top: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+}
+
+.white-box-sector {
+    height: 550px;
+    width: 360px;
+    background-color: white;
+    margin: 20px;
+}
+
+.main-heading-red2 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    height: 30px;
+    background-color: #C80036;
+    width: 360px;
+    text-align: center;
+}
+
+.border-question2 {
+    margin: 10px;
+    padding: 5px;
+    color: white;
+    border-style: solid;
+    border-color: white;
+    border-radius: 10px;
+    border-width: 1px;
+}
+
+.share-market-img {
+    background-image: url("https://ipanewspack.com/whoaftuf/2023/07/indias-stock-markets-have-become-now-punters-paradise.jpg");
+    height: 140px;
+    width: 220px;
+    background-size: cover;
+    margin-top: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: 40px;
+}
+
+.share-market-heading {
+    font-family: "Monoton";
+    color: white;
+    font-size: 20px;
+    padding: 6px;
+    padding-top: 110px;
+}
+
+.share-market-blur {
+    height: 140px;
+    width: 220px;
+    background-color: #00000090;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.share-market-card-pink {
+    height: 30px;
+    width: 220px;
+    background-color: #FF6969;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.share-market-arrow {
+    font-family: "Roboto";
+    color: white;
+    font-size: 20px;
+    text-align: end;
+    padding: 4px;
+    padding-right: 10px;
+}
+
+.RBI-img {
+    background-image: url("https://img.jagranjosh.com/images/2022/August/1682022/what-are-rbis-new-digital-lending-norms-eng.jpg");
+    height: 140px;
+    width: 220px;
+    background-size: cover;
+    margin-top: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: 35px;
+}
+
+.Public-img {
+    background-image: url("https://www.inventiva.co.in/wp-content/uploads/2022/06/PUB.jpg");
+    height: 140px;
+    width: 220px;
+    background-size: cover;
+    margin-top: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: 35px;
+}
+
+.Private-img {
+    background-image: url("https://static.javatpoint.com/top10-technologies/images/top-10-private-companies-in-india6.png");
+    height: 140px;
+    width: 220px;
+    background-size: cover;
+    margin-top: 20px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    margin: 35px;
+}
+
+.edit-cheaper-commodity-card {
+    height: 130px;
+    width: 460px;
+    background-color: white;
+    margin: 20px;
+    padding: 6px;
+}
+
+.edit-cheaper-commodity-img {
+    height: 100px;
+    width: 100px;
+    margin: 5px;
+}
+
+.cheaper-commodity-heading {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    padding: 4px;
+    background-color: #0C1844;
+    margin-left: 4px;
+}
+
+.cheaper-commodity-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: black;
+    margin-left: 4px;
+}
+
+.cheap-commodity-arrow {
+    height: 50px;
+    width: 50px;
+    text-align: end;
+    margin: 10px;
+}
+
+.cheaper-commodity-heading2 {
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    padding: 4px;
+    background-color: #C80036;
+    margin-left: 4px;
+}
+
+.exper-panel-pink-box {
+    height: 405px;
+    width: 280px;
+    background-color: #FF6969;
+    border-radius: 10px;
+    margin: 27px;
+}
+
+.exper-panel-img {
+    height: 110px;
+    width: 240px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-size: cover;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.expert-heading1 {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #C80036;
+    padding: 4px;
+    text-align: center;
+}
+
+.expert-heading2 {
+    font-family: "Roboto";
+    font-size: 10px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.expert-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 5px;
+}
+
+.expert-para2 {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 25px;
+    padding-bottom: 14px;
+}
+
+.expert-para3 {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 20px;
+}
+
+.edit-carousel2 {
+    height: 300px;
+    width: 300px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.white-card-carousel {
+    height: 60px;
+    width: 600px;
+    margin-left: 20px;
+    background-color: white;
+}
+
+.carousel2-arrow {
+    font-size: 20px;
+    font-weight: bold;
+    text-align: end;
+    padding-top: 10px;
+    margin-right: 20px
+}
+
+.size-yt-video {
+    height: 200px;
+    width: 350px;
+    background-size: cover;
+    margin: 40px;
+}
+
+.white-border-yt-video {
+    height: 60px;
+    width: 350px;
+    margin-left: 40px;
+    background-color: white;
+}
+
+.edit-courtsy {
+    height: 60px;
+    width: 120px;
+    background-size: cover;
+    margin: 20px;
+}
+
+.button-move-top {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.bg-end {
+    background-color: #0C1844;
+    height: 520px;
+    width: 1000px;
+}
+
+.edit-courtesy-spacing {
+    margin-top: 20px;
+}
+
+.edit-end-heading1 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.edit-end-heading1-2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin-left: 70px;
+}
+
+.edit-end-heading2 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 20px;
+    text-decoration: underline;
+}
+
+.edit-end-heading2-1 {
+    color: white;
+    font-family: "Roboto";
+    width: 600px;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 80px;
+    text-decoration: underline;
+}
+
+.edit-end-heading3 {
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+    margin-left: 25px;
+}
+
+.edit-end-heading4 {
+    padding: 20px;
+    width: 400px;
+}
+
+.edit-margin-contact {
+    margin-left: 90px;
+}
+
+.edit-slogan {
+    margin-bottom: 50px;
+}
+
+.main-bg-white1 {
+    height: 2150px;
+    width: 1517px;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.main-bg-baby-yellow1 {
+    height: 2150px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.img-page1-agri {
+    height: 300px;
+    width: 450px;
+    background-size: cover;
+    margin: 20px;
+
+}
+
+.main-heading-red-2 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    background-color: #C80036;
+    width: 960px;
+    text-align: center;
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.main-heading-blue-2 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    background-color: #0C1844;
+    width: 470px;
+    text-align: center;
+    margin: 10px;
+    margin-top: 20px;
+}
+
+.img-page1-agri-heading1 {
+    color: black;
+    font-family: "Monoton";
+    font-size: 50px;
+    width: 220px;
+    text-align: center;
+}
+
+.img-page1-agri-heading2 {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 220px;
+    text-align: center;
+    background-color: #FF6969;
+}
+
+.img-page1-agri-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 220px;
+    text-align: center;
+}
+
+.img-page1-agri-border {
+    height: 230px;
+    width: 240px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 6px;
+}
+
+.img-page1-agri-A {
+    height: 100px;
+    width: 100px;
+    background-size: cover;
+    border-radius: 300px;
+    margin: 10px;
+}
+
+.img-page1-agri-para-A {
+    color: black;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 250px;
+}
+
+.img-page1-agri-heading-A {
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    width: 250px;
+    text-align: center;
+    background-color: #FF6969;
+    font-weight: bold;
+    padding: 6px;
+}
+
+.img-page1-agri-border-A {
+    height: 500px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-agri-yt {
+    height: 180px;
+    width: 300px;
+    margin: 10px;
+}
+
+.img-page1-agri-button-A {
+    margin-top: 30px;
+    margin: 5px;
+}
+
+.img-page1-agri-heading-B {
+    font-family: "Roboto";
+    font-size: 15px;
+    width: 250px;
+    text-align: center;
+    padding: 6px;
+}
+
+.img-page1-skill-border-B {
+    height: 800px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.main-heading-red-3 {
+    font-family: "Caveat";
+    font-size: 25px;
+    color: white;
+    background-color: #C80036;
+    width: 700px;
+    text-align: center;
+    margin: 20px;
+    margin-top: 30px;
+}
+
+.img-page1-skill-border-C {
+    height: 585px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.main-bg-white3 {
+    height: 3300px;
+    width: 1517px;
+    background-color: white;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow3 {
+    height: 3300px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.main-bg-baby-yellow3-2 {
+    height: 3100px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.img-page1-HRD-border {
+    height: 230px;
+    width: 480px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 6px;
+}
+
+.img-page1-HRD-para {
+    color: black;
+    font-family: "Roboto";
+    font-size: 18px;
+    width: 470px;
+}
+
+.img-page1-HRD-heading1 {
+    color: white;
+    font-family: "Monoton";
+    font-size: 30px;
+    width: 220px;
+    text-align: center;
+    background-color: #FF6969;
+}
+
+.img-page1-HRD-border-A {
+    height: 800px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-HRD-border-B {
+    height: 380px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-HRD-border-C {
+    height: 400px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-HRD-border-C-1 {
+    height: 430px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.main-bg-baby-yellow2 {
+    height: 2750px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow2-2 {
+    height: 2400px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow2-3 {
+    height: 2560px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow2-4 {
+    height: 2800px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow2-5 {
+    height: 2400px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+    margin-left: 260px;
+}
+
+.img-page1-HRD-border-D {
+    height: 500px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-HRD-border-D-2 {
+    height: 520px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-HRD-border-E {
+    height: 600px;
+    width: 270px;
+    border-style: dashed;
+    border-width: 2px;
+    border-color: #0C1844;
+    padding: 10px;
+    margin: 20px;
+}
+
+.img-page1-reforms-yt {
+    height: 250px;
+    width: 420px;
+    margin: 20px;
+}
+
+.img-stock-market-carousel {
+    height: 400px;
+    width: 400px;
+}
+
+.card-login-page {
+    height: 100vh;
+    width: 100vw;
+    background-color: #FFF5E1;
+}
+
+.white-card-login-page {
+    height: 400px;
+    width: 600px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 50px;
+    border-radius: 20px;
+}
+
+.login-card-heading {
+    height: 48px;
+    width: 300px;
+    font-size: 20px;
+    font-style: "Roboto";
+    border-style: dashed;
+    border-color: black;
+    border-radius: 10px;
+    padding: 5px;
+    color: grey;
+    margin: 10px;
+    margin-left: 50px;
+}
+
+.login-card-heading2 {
+    font-size: 15px;
+    font-style: "Roboto";
+    border-color: black;
+    color: grey;
+    margin: 10px;
+    margin-left: 60px;
+    text-decoration: underline;
+}
+
+.login-card-heading-login {
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+    margin: 30px;
+    margin-left: 160px;
+}
+
+.login-page-button {
+    margin: 30px;
+    margin-left: 100px;
+}
+
+.main-image-bag2 {
+    background-image: url("https://feeds.abplive.com/onecms/images/uploaded-images/2024/07/24/cb92097fe923231bd14c60cec0c8e3f91b364.jpg?impolicy=abp_cdn&imwidth=800");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.blur-bg-black2 {
+    background-color: #00000090;
+    height: 100vh;
+    width: 100vw;
+    padding-left: 80px;
+    padding-top: 40px;
+    padding-right: 30px;
+}
+
+.margin-logo-login-page {
+    margin-top: 210px;
+}
+
+.stock-market-blue-card1 {
+    height: 270px;
+    width: 750px;
+    background-color: #0C1844;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.stock-market-blue-card2 {
+    height: 270px;
+    width: 750px;
+    background-color: #0C1844;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 250px;
+}
+
+.img-stock-market-blue-card {
+    height: 230px;
+    width: 250px;
+    background-size: cover;
+    margin: 10px;
+}
+
+.stock-market-blur-card-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #0C1844;
+    background-color: white;
+    font-weight: bold;
+    height: 30px;
+    width: 450px;
+    padding: 4px;
+    margin: 10px;
+}
+
+.stock-market-blur-card-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: white;
+    margin: 10px;
+}
+
+.edit-read-more {
+    padding-left: 15px;
+    margin-bottom: 10px;
+}
+
+.card-news {
+    background-color: white;
+    height: 390px;
+    width: 220px;
+    border-radius: 10px;
+    margin: 5px;
+    margin-left: 18px;
+}
+
+.card-news-bg {
+    background-color: #0C1844;
+    height: 470px;
+    width: 1000px;
+    padding-top: 8px;
+}
+
+.card-news-img {
+    height: 140px;
+    width: 220px;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.card-news-heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+    padding: 4px;
+}
+
+.card-news-para {
+    font-family: "Roboto";
+    font-size: 14px;
+    color: black;
+    color: #7b8794;
+    padding: 4px;
+}
+
+.margin-flag2 {
+    margin: 4px;
+}
+
+.margin-flag3 {
+    margin: 4px;
+    margin-left: 30px;
+}
+
+.margin-flag3-1 {
+    margin: 4px;
+    margin-left: 350px;
+}
+
+.align-dravid-button {
+    text-align: center;
+}
+
+.main-bg-baby-yellow4 {
+    height: 2800px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow4-1 {
+    height: 3000px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.edit-cheaper-commodity-card2 {
+    height: 140px;
+    width: 460px;
+    background-color: white;
+    margin: 20px;
+    padding: 6px;
+}
+
+.edit-cheaper-commodity-img2 {
+    height: 115px;
+    width: 100px;
+    margin: 5px;
+}
+
+.main-bg-baby-yellow5 {
+    height: 3000px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.main-bg-baby-yellow5-1 {
+    height: 3800px;
+    width: 1000px;
+    background-color: #FFF5E1;
+    margin-top: 5px;
+}
+
+.private-sector-white-card1 {
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    margin-left: 20px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+}
+
+.private-sector-white-card2 {
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+    margin-right: 20px;
+}
+
+.private-sector-white-card3 {
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    border-top-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+    margin-left: 20px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-right: 5px;
+}
+
+.private-sector-white-card4 {
+    height: 300px;
+    width: 450px;
+    background-color: white;
+    border-top-right-radius: 100px;
+    border-bottom-left-radius: 100px;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+}
+
+.heading-public-sector {
+    font-family: "Roboto";
+    font-size: 20px;
+    font-weight: bold;
+    margin: 5px;
+    text-align: center;
+}
+
+.para-public-sector {
+    font-family: "Roboto";
+    font-size: 12px;
+    margin: 5px;
+}
+
+.edit-images-public-sector1 {
+    height: 280px;
+    width: 150px;
+    background-size: cover;
+    border-top-right-radius: 90px;
+    margin: 10px;
+}
+
+.edit-images-public-sector2 {
+    height: 280px;
+    width: 150px;
+    background-size: cover;
+    border-top-left-radius: 90px;
+    margin: 10px;
+}
+
+.edit-images-public-sector3 {
+    height: 280px;
+    width: 150px;
+    background-size: cover;
+    border-bottom-right-radius: 90px;
+    margin: 10px;
+}
+
+.edit-images-public-sector4 {
+    height: 280px;
+    width: 150px;
+    background-size: cover;
+    border-bottom-left-radius: 90px;
+    margin: 10px;
+}
+
+.stock-market-red-card1 {
+    height: 220px;
+    width: 750px;
+    background-color: #FF6969;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.stock-market-red-card2 {
+    height: 220px;
+    width: 750px;
+    background-color: #FF6969;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-left: 250px;
+}
+
+.img-stock-market-red-card1 {
+    height: 180px;
+    width: 250px;
+    background-size: cover;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin: 10px;
+}
+
+.img-stock-market-red-card2 {
+    height: 180px;
+    width: 250px;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin: 10px;
+}
+
+.edit-box-indirect-tax {
+    height: 330px;
+    width: 230px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.edit-img-indirect-tax {
+    height: 90px;
+    width: 210px;
+    background-size: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.heading-indirect-GST {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.para-indirect-GST {
+    font-family: 'Roboto';
+    font-size: 10px;
+}
+
+.main-bg-baby-red {
+    height: 2150px;
+    width: 1000px;
+    background-color: #FF6969;
+    padding: 5px;
+}
+
+.Expert1-white-box1 {
+    height: 350px;
+    width: 970px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    padding-top: 20px;
+}
+
+.heading-Expert1 {
+    font-family: 'Roboto';
+    font-size: 25px;
+    color: white;
+    margin: 10px;
+    font-weight: bold;
+    width: 400px;
+    background-color: #C80036;
+    text-align: center;
+}
+
+.heading2-Expert1 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin: 10px;
+    font-weight: bold;
+    width: 400px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.heading3-Expert1 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin: 10px;
+    width: 400px;
+    padding-left: 30px;
+}
+
+.align-img-end {
+    margin-left: 20px;
+}
+
+.Expert1-white-box2 {
+    height: 160px;
+    width: 970px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    padding-top: 20px;
+    margin-top: 30px;
+}
+
+.para2-Expert1 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin: 10px;
+}
+
+.heading5-Expert1 {
+    font-family: 'Roboto';
+    font-size: 20px;
+    margin: 5px;
+    font-weight: bold;
+}
+
+.Expert1-white-box3 {
+    height: 380px;
+    width: 970px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.Expert1-white-box4 {
+    height: 650px;
+    width: 970px;
+    border-radius: 5px;
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    margin-top: 30px;
+}
+
+.para2-Expert1-2 {
+    font-family: 'Roboto';
+    font-size: 18px;
+    margin: 10px;
+}
+
+.margin-left-read-article {
+    margin-left: 4px;
+    font-size: 12px;
+}
