@@ -1,29 +1,31 @@
-#India Budget 2024-25 Informative Website
+# Fanclub: ICC Men's T20 World Cup 2024
 
-Project Overview
-This repository contains the source code for a static website created to provide detailed information about the India Budget 2024-25. The website is designed to be a comprehensive resource for anyone looking to understand the various aspects of the budget, including key allocations, policy changes, and economic implications.
+Welcome to the Fanclub website for the ICC Men's T20 World Cup 2024! This project is a static front-end website created using HTML and CSS. 
+It provides information and excitement about the  T20 World Cup.
 
-Features
-Comprehensive Information: All major sections of the budget are covered with detailed explanations.
-User-Friendly Design: The website is designed with a clean and intuitive interface for easy navigation.
-Useful Links: Includes links to official documents, related articles, and other resources for further reading.
+## Features
+- Home page with a login and Signin section
+- Team profiles with player details and stats
+- Schedule of matches with date, time, and venue
+- News and updates section for the latest information
+- Responsive design for optimal viewing on various devices
 
-Technologies Used
-HTML: For structuring the content of the website.
-CSS: For styling the website and ensuring it is visually appealing and responsive.
+## Technologies Used
+- HTML5
+- CSS3
 
-Project Structure
-index.html: The main HTML file that structures the content of the website.
-styles/: Contains all CSS files that style the website.
+## Usage
+Feel free to fork this repository and make your own modifications. Contributions are welcome!
 
-Author
-Name: Prasad Rajendra Pawar
-LinkedIn:https://www.linkedin.com/in/prasadpawar21/
-GitHub:https://github.com/Prasadpawar21
+## Author
+Prasad Rajendra Pawar
+- [LinkedIn](https://www.linkedin.com/in/prasadpawar21)
+- [GitHub](https://github.com/prasadpawar21)
 
-Contributing
-Contributions are welcome! If you have suggestions for improvements or spot any issues, feel free to open an issue or submit a pull request.
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-License
-This project is licensed under the MIT License.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
