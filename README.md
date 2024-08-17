@@ -1,4 +1,4 @@
-India Budget 2024-25 Informative Website
+#India Budget 2024-25 Informative Website
 
 Project Overview
 This repository contains the source code for a static website created to provide detailed information about the India Budget 2024-25. The website is designed to be a comprehensive resource for anyone looking to understand the various aspects of the budget, including key allocations, policy changes, and economic implications.
